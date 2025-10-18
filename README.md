@@ -12,4 +12,4 @@ KONTINUERLIG is a lightweight tool designed to streamline your CI/CD pipeline by
 
 ## 🤝 Contributing
 
-Contributions are welcome\! Feel free to open an issue or submit a pull request.
+Contributions are welcome\! Feel free to open an issue or submit a pull requestsooos.
