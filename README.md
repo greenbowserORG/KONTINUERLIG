@@ -2,7 +2,7 @@
 
 A simple, continuous integration helper 🇸🇪
 
-KONTINUERLIG is a lightweight tool designed to streamline your CI/CD pipeline by automating common, repetitive tasks. It's meant to be used alongside your existing CI provider, not as a replacement.
+KONTINUERLIG is a lightweight tool designed to streamline your CI/CD pipeline by automating common, repetitive tasks. It's meant to be used alongside your existing CI provider, not as a replacemednt.
 
 ## 🚀 Features
 
